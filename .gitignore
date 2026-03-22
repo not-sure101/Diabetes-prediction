@@ -23,9 +23,4 @@ venv/
 .idea/
 
 # Model artifacts / outputs
-*.pkl
 *.joblib
-*.json
-
-# Data
-*.csv
